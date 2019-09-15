@@ -1,2 +1,1 @@
-# ANLY590
-ANLY590(Deep Learning) Homework Assignment
+# ANLY590(Deep Learning) Homework Assignment
